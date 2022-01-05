@@ -1,2 +1,4 @@
-# captan
-3049
+
+npm run apply:bitpay
+npm run prepare:bitpay
+npm run start:android
